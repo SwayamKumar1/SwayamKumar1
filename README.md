@@ -46,17 +46,18 @@ I create deployable ML apps that are fast, reliable, and easy for clients to use
 
 ---
 
-## 📬 Work With Me
-I build:
-- Prediction models for businesses  
-- AI dashboards  
-- Automation tools  
-- Scoring models (churn, conversion, fraud)  
-- Small ML apps that can be deployed instantly  
+## 🧠 Work With Me
 
-💼 **Available for freelance projects**  
-📧 Email: *swayamk.ds@gmail.com*  
-🌍 Portfolio Site (launching soon)
+If your business needs:
+- A deployable ML model  
+- Automated data workflows  
+- A custom AI dashboard  
+- Or a fast proof-of-concept  
+
+I can build it end-to-end with clean, scalable, and production-ready code.
+
+📧 Email: **swayamk.ds@gmail.com**  
+🟢 Open for consulting and freelance projects.
 
 ---
 
