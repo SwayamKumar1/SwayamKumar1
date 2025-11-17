@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Swayam — AI/ML Developer & Automation Engineer
+# ✨ Hi, I'm Swayam — I Build Machine Learning Solutions for Businesses
 
-I build intelligent, practical machine-learning solutions that solve real business problems.  
-Everything I create is **production-ready**, clean, and focused on **business impact** — not just code.
+I help companies turn raw data into real business results using clean, production-ready
+Machine Learning pipelines and automation systems.  
+From **churn prediction** to **dashboard development** and **Python automation**,  
+I create deployable ML apps that are fast, reliable, and easy for clients to use.
 
+🚀 **Open for freelance projects — Let's build your next AI solution.**
 ---
 
 ## 🚀 What I Do
